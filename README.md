@@ -21,7 +21,7 @@ Arduino sends control signals to the L298N driver, which controls the direction 
 
 We connected two DC gear motors to the L298N motor driver and interfaced it with an Arduino Uno. We programmed the Arduino to control the motor direction, making one motor rotate clockwise and the other anticlockwise. The circuit was powered and tested to verify the motor movements.  
  
-
+![Result](Result.jpeg)
 # **5.Learning :**
 
 Learned practical Arduino programming, motor driver connections, and DC motor direction control.  
